@@ -1,0 +1,7 @@
+{
+    "name": "Bob",
+    "gender": "Male",
+    "age": 25,
+    "address": "Delhi",
+    "orders": []
+}
